@@ -1,0 +1,45 @@
+h1 {
+    color: #ff5733;
+    text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+}
+ul li {
+  margin-bottom: 30px;
+}
+
+img{
+    height: 300;
+    height: 300;
+    border-radius: 35%;
+}
+  table {
+    width: 20%;
+    margin: 10px auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(136, 4, 4, 0.1);
+    font-family: Arial, sans-serif;
+  }
+   
+
+
+  
+  a {
+    color: blue; 
+    text-decoration: none; 
+  }
+
+  
+  a:hover {
+    color: red;
+  }
+
+body {
+  background-color: #ecf7d4;
+}
+
+
+    
+  
